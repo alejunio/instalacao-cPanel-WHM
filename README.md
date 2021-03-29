@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=y8PB2ZsxWEY&list=PLVKPmJRbmf2SOHyYBJh9Ept4g0d_-U
 * 📌 Cloud Linode   http://bit.ly/35HRHiX​
 * 📌 Cloud DigitalOcean  http://bit.ly/2ZfqyEZ​
 * 📌InterServer  https://bit.ly/3rvjjlq
+
+### Consultoria e Suporte cPanel WHM
+https://alexjunio.com.br/gerenciamento-servidor-cpanel-whm/
