@@ -6,14 +6,14 @@ Nesse "Mini Treinamento" você vai aprender o embasamento necessário para traba
 
 
 ### Vídeo Aulas
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y8PB2ZsxWEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=y8PB2ZsxWEY&list=PLVKPmJRbmf2SOHyYBJh9Ept4g0d_-U9LE
 
 
 ### Provedores VPS/Dedicado
 
-📌 Cloud Vultr  http://bit.ly/2vEfKSP​   # $100 dólar grátis 
-📌 OVH VPS e Dedicado     https://bit.ly/39jDqNa​
-📌 Contabo VPS e Dedicado   https://bit.ly/3stmnjm​
-📌 Cloud Linode   http://bit.ly/35HRHiX​
-📌 Cloud DigitalOcean  http://bit.ly/2ZfqyEZ​
-📌InterServer  https://bit.ly/3rvjjlq
+* 📌 Cloud Vultr  http://bit.ly/2vEfKSP​   # $100 dólar grátis 
+* 📌 OVH VPS e Dedicado     https://bit.ly/39jDqNa​
+* 📌 Contabo VPS e Dedicado   https://bit.ly/3stmnjm​
+* 📌 Cloud Linode   http://bit.ly/35HRHiX​
+* 📌 Cloud DigitalOcean  http://bit.ly/2ZfqyEZ​
+* 📌InterServer  https://bit.ly/3rvjjlq
